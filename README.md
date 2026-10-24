@@ -2,6 +2,6 @@
 
 Compiled technical harness only. No customer data or privileged credentials. Application source remains in the private main repository.
 
-Candidate build: 7384eefe1e5937c366405401197eaf6e11acf933
+Candidate build: 410c85fff52d4f3b9dfa42b0ebf81f8ba643fb05
 
 No production application deployment.
